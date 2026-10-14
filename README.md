@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td align="center" valign="top" width="200">
-      <img src="avatar.png" width="140" style="border-radius: 50%; border: 2px solid #ff2222;" />
+      <img src="https://github.com/1077133/1077133/blob/main/avatar.jpg" width="140" style="border-radius: 50%; border: 2px solid #ff2222;" />
       <br><br>
       <code><b>charlotte goldscatter</b></code>
       <p><font color="#ff2222" size="2"><code>she/her</code></font></p>
