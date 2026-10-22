@@ -2,7 +2,7 @@
   <tr>
     <td align="center" valign="top" width="160">
       <br>
-      <img src="avatar.jpg" width="110" style="border-radius: 50%; border: 2px solid #ff2222;" />
+      <img src="avatar.jpg" width="160" style="border-radius: 50%; border: 2px solid #ff2222;" />
       <br>
       <code><b>charlotte</b></code>
       <p><font color="#ff2222" size="2"><code>she/her</code></font></p>
@@ -17,11 +17,6 @@ tools: ida, ghidra, nvim
         <a href="https://x.com/goldscatter"><code>x.com</code></a> &nbsp;
         <a href="https://ru.pronouns.page/@sharlotk"><code>pronouns.page</code></a> &nbsp;
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="troon.jpg" width="520">
     </td>
   </tr>
 </table>
