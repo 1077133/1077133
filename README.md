@@ -15,7 +15,7 @@ tools: ida, ghidra, nvim
       </pre>
       <p>
         <a href="https://x.com/goldscatter"><code>x.com</code></a> &nbsp;
-        <a href="https://ru.pronouns.page/@sharlotk"><code>pronouns.page</code></a> &nbsp;
+        <a href="https://ru.pronouns.page/@shaaaa"><code>pronouns.page</code></a> &nbsp;
       </p>
     </td>
   </tr>
